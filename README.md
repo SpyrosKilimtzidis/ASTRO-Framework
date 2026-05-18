@@ -8,3 +8,11 @@ This repository accompanies the work:
 
 *A Novel Surrogate-Assisted Structural Optimization Framework for Full-Aircraft Configurations*  
 Featured at **AIAA SciTech 2026**.
+
+<p align="center">
+  <img src="docs/images/aircraft_struct_symm.png" width="700">
+</p>
+
+<p align="center">
+  <em>Symmetric full-aircraft structural model used in the ASTRO framework.</em>
+</p>
