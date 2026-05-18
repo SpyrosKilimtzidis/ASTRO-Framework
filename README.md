@@ -2,17 +2,12 @@
 
 **Aircraft Surrogate-Based Structural Optimization Framework**
 
-ASTRO is a MATLAB-based computational framework for the surrogate-assisted structural optimization of full-aircraft configurations. The framework supports parametric geometry generation and component-wise thickness sizing for wings, fuselage, and tail structures. It couples MATLAB-driven preprocessing with Patran/NASTRAN finite element models, SDPM aerodynamic load generation, static and buckling analyses, flutter constraints, and surrogate-based optimization.
-
-This repository accompanies the work:
-
-*A Novel Surrogate-Assisted Structural Optimization Framework for Full-Aircraft Configurations*  
-Featured at **AIAA SciTech 2026**.
-
 <p align="center">
-  <img src="docs/images/aircraft_struct_symm.png" width="700">
+  <img src="aircraft_struct_symm.png" width="700">
 </p>
 
 <p align="center">
   <em>Symmetric full-aircraft structural model used in the ASTRO framework.</em>
 </p>
+
+ASTRO is a MATLAB-based framework for surrogate-assisted structural optimization of full-aircraft configurations. It integrates parametric geometry generation, thickness sizing, Patran/NASTRAN finite element models, SDPM aerodynamic loads, and surrogate-based optimization.
