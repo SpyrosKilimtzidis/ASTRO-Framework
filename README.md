@@ -5,7 +5,7 @@
 ASTRO is a MATLAB-based computational framework for the surrogate-assisted structural optimization of full-aircraft configurations. The framework supports parametric geometry generation and component-wise thickness sizing for wing, fuselage, and tail structures. It couples MATLAB-driven preprocessing with Patran/NASTRAN finite element models, SDPM aerodynamic load generation, static and buckling analyses, flutter constraints, and surrogate-based optimization.
 
 <p align="center">
-  <img src="aircraft_struct_symm.png" width="800">
+  <img src="docs/images/aircraft_struct_symm.png" width="800">
 </p>
 
 <p align="center">
